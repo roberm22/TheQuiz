@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct Practica3App: App {
+struct TheQuizApp: App {
 	
 	let quizModel: QuizModel = {
 		let qm = QuizModel()
